@@ -1,0 +1,7 @@
+No third party packages are needed to run the applications.
+
+
+For testing,add:
+
+
+pytest>=8.0
